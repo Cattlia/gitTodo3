@@ -1,0 +1,6 @@
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.csproj.AssemblyReference.cache
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.AssemblyInfoInputs.cache
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.AssemblyInfo.cs
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.csproj.CoreCompileInputs.cache
+C:\Gokstad\AlgoritmerH24\Mappe3\todo3\obj\Debug\net8.0\todo3.MvcApplicationPartsAssemblyInfo.cache
